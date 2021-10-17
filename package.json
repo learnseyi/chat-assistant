@@ -1,0 +1,24 @@
+{
+  "name": "chat-assistant",
+  "version": "1.0.0",
+  "description": "chatbot support for frontline staffs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seyi Agboola",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder-adapter-webex": "^1.0.9",
+    "botkit": "^4.10.0",
+    "dotenv": "^10.0.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts":{
+    "start" : "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

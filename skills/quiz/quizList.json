@@ -1,0 +1,197 @@
+[
+  {
+    Question: "What sort of animal is Walt Disney's Dumbo?",
+    Answer : {
+       A : "Deer",
+       B : "Rabbit",
+       C : "Elephant",
+       D : "Donkey"
+    }
+
+
+  }
+
+
+2.
+What was the name of the Spanish waiter in the TV sitcom "Fawlty Towers"?
+
+    A.
+
+    Manuel
+    B.
+
+    Pedro
+    C.
+
+    Alfonso
+    D.
+
+    Javier
+
+3.
+Which battles took place between the Royal Houses of York and Lancaster?
+
+    A.
+
+    Thirty Years War
+    B.
+
+    Hundred Years War
+    C.
+
+    War of the Roses
+    D.
+
+    English Civil War
+
+4.
+Which former Beatle narrated the TV adventures of Thomas the Tank Engine?
+
+    A.
+
+    John Lennon
+    B.
+
+    Paul McCartney
+    C.
+
+    George Harrison
+    D.
+
+    Ringo Starr
+
+5.
+Queen Anne was the daughter of which English Monarch?
+
+    A.
+
+    James II
+    B.
+
+    Henry VIII
+    C.
+
+    Victoria
+    D.
+
+    William I
+
+6.
+Who composed "Rhapsody in Blue"?
+
+    A.
+
+    Irving Berlin
+    B.
+
+    George Gershwin
+    C.
+
+    Aaron Copland
+    D.
+
+    Cole Porter
+
+7.
+What is the Celsius equivalent of 77 degrees Fahrenheit?
+
+    A.
+
+    15
+    B.
+
+    20
+    C.
+
+    25
+    D.
+
+    30
+
+8.
+Suffolk Punch and Hackney are types of what?
+
+    A.
+
+    Carriage
+    B.
+
+    Wrestling style
+    C.
+
+    Cocktail
+    D.
+
+    Horse
+
+9.
+Which Shakespeare play features the line "Neither a borrower nor a lender be"?
+
+    A.
+
+    Hamlet
+    B.
+
+    Macbeth
+    C.
+
+    Othello
+    D.
+
+    The Merchant of Venice
+
+{
+  Question : "Which is the largest city in the USA's largest state?",
+  Answer : {
+    A : "Dallas",
+    B : "Los Angeles",
+    C : "New York",
+    D : "Anchorage"
+  }
+},
+
+{
+  Question : "The word 'aristocracy' literally means power in the hands of whom?",
+  Answer : {
+    A : "The few",
+    B : "The best",
+    C : "The barons",
+    D : "The rich"
+  }
+},
+{
+  Question : "Where would a 'peruke' be worn?",
+  Answer : {
+      A : "Around the neck",
+      B : "On the head",
+      C : "Around the waist",
+      D : "On the wrist"
+  }
+},
+}
+  Question: "In which palace was Queen Elizabeth I born?",
+  Answer : {
+    A : "Greenwich",
+    B : "Richmond",
+    C : "Hampton Court",
+    D : "Kensington"
+  },
+
+{
+  Question:"From which author's work did scientists take the word 'quark'? ",
+  Answer : {
+    A : "Lewis Carroll",
+    B : "Edward Lear",
+    C : "James Joyce",
+    D : "Aldous Huxley"
+  }
+},
+{
+"Question":"Which of these islands was ruled by Britain from 1815 until 1864?",
+  Answer:{
+    A : "Crete",
+    B : "Cyprus",
+    C :  "Corsica",
+    D :  "Corfu"
+  }
+]
