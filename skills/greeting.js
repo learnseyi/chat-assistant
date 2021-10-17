@@ -20,8 +20,7 @@ module.exports = (controller)=> {
 
     controller.on('user_space_join,direct_message,message', async (bot, message) =>{
       const person = await bot.api.people.get({personId: message.user})
-      console.log(person.firstName)
-      await bot.reply(message,`Hi  ${person.firstName} \n  Good ${getTime()} how can I help you today`);
+      await bot.reply(message,` Good ${getTime()} ${person.firstName}, how can I help you today?`);
 })
 
 
